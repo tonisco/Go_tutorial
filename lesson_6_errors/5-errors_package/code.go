@@ -7,7 +7,7 @@ import (
 
 func divide(x, y float64) (float64, error) {
 	if y == 0 {
-		// ?
+		return 0.0, errors.New(fmt.Sprintf("can not divide %v by zero", y))
 	}
 	return x / y, nil
 }
