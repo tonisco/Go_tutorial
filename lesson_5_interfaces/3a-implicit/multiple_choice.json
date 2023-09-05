@@ -1,7 +1,5 @@
 {
-  "question": "Can a type fulfill multiple interfaces?",
-  "answers": [
-    "Yes, why not?",
-    "Never"
-  ]
+    "question": "Can a type fulfill multiple interfaces?",
+    "answers": ["Yes, why not?", "Never"],
+    "picked": "Yes, why not?"
 }
