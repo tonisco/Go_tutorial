@@ -1,7 +1,5 @@
 {
-  "question": "Which language's declaration syntax reads like English from left-to-right",
-  "answers": [
-    "Go",
-    "C"
-  ]
+    "question": "Which language's declaration syntax reads like English from left-to-right",
+    "answers": ["Go", "C"],
+    "picked": "Go"
 }
