@@ -5,7 +5,22 @@ import (
 )
 
 func getNameCounts(names []string) map[rune]map[string]int {
-	// ?
+	allNames := make(map[rune]map[string]int)
+
+	for _, name := range names {
+		if name == "" {
+			continue
+		}
+
+		key := rune(name[0])
+		if _, ok := allNames[key]; !ok {
+			allNames[key] = make(map[string]int)
+		}
+
+		allNames[key][name]++
+	}
+
+	return allNames
 }
 
 // don't edit below this line
