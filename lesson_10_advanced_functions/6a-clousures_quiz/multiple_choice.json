@@ -1,7 +1,8 @@
 {
-  "question": "When a variable is enclosed in a closure, the enclosing function has access to ____",
-  "answers": [
-    "a mutable reference to the original value",
-    "a copy of the value"
-  ]
+    "question": "When a variable is enclosed in a closure, the enclosing function has access to ____",
+    "answers": [
+        "a mutable reference to the original value",
+        "a copy of the value"
+    ],
+    "picked": "a mutable reference to the original value"
 }
