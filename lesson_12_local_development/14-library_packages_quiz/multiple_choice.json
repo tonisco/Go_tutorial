@@ -1,7 +1,5 @@
 {
-  "question": "Should you export code from the main package?",
-  "answers": [
-    "Nope",
-    "Yup"
-  ]
+    "question": "Should you export code from the main package?",
+    "answers": ["Nope", "Yup"],
+    "picked": "Nope"
 }

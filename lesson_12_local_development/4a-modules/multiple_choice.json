@@ -1,7 +1,5 @@
 {
-  "question": "Do packages in the standard library have a module path prefix?",
-  "answers": [
-    "No",
-    "Yes"
-  ]
+    "question": "Do packages in the standard library have a module path prefix?",
+    "answers": ["No", "Yes"],
+    "picked": "No"
 }

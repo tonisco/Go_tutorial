@@ -1,8 +1,9 @@
 {
-  "question": "What does the first line of go.mod contain?",
-  "answers": [
-    "module {REMOTE}/{USERNAME}/hellogo",
-    "{REMOTE}/{USERNAME}/hellogo",
-    "module hellogo"
-  ]
+    "question": "What does the first line of go.mod contain?",
+    "answers": [
+        "module {REMOTE}/{USERNAME}/hellogo",
+        "{REMOTE}/{USERNAME}/hellogo",
+        "module hellogo"
+    ],
+    "picked": "module {REMOTE}/{USERNAME}/hellogo"
 }

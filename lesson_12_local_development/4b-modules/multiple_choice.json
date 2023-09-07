@@ -1,8 +1,9 @@
 {
-  "question": "What is an import path?",
-  "answers": [
-    "A module path + package subdirectory",
-    "An HTTP connection",
-    "A RESTful server"
-  ]
+    "question": "What is an import path?",
+    "answers": [
+        "A module path + package subdirectory",
+        "An HTTP connection",
+        "A RESTful server"
+    ],
+    "picked": "A module path + package subdirectory"
 }
