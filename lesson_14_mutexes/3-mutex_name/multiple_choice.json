@@ -1,9 +1,10 @@
 {
-  "question": "What does the term 'mutex' refer to?",
-  "answers": [
-    "Mutual Exclusion",
-    "Most Expressive",
-    "More Expansive",
-    "Mutual Expulsion"
-  ]
+    "question": "What does the term 'mutex' refer to?",
+    "answers": [
+        "Mutual Exclusion",
+        "Most Expressive",
+        "More Expansive",
+        "Mutual Expulsion"
+    ],
+    "picked": "Mutual Exclusion"
 }
