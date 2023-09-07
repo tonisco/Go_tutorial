@@ -1,7 +1,5 @@
 {
-  "question": "Generics will probably be used more heavily in...",
-  "answers": [
-    "Library packages",
-    "Main packages (executable applications)"
-  ]
+    "question": "Generics will probably be used more heavily in...",
+    "answers": ["Library packages", "Main packages (executable applications)"],
+    "picked": "Library packages"
 }

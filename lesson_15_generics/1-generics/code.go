@@ -2,8 +2,13 @@ package main
 
 import "fmt"
 
-func getLast[]() {
+func getLast[T any](e []T) T {
+	if len(e) == 0 {
+		var em T
+		return em
+	}
 
+	return e[len(e)-1]
 }
 
 // don't edit below this line

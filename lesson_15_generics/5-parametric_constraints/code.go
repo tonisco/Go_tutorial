@@ -4,7 +4,10 @@ import (
 	"fmt"
 )
 
-// ?
+type biller[c customer] interface {
+	Charge(c) bill
+	Name() string
+}
 
 // don't edit below this line
 
